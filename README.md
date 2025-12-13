@@ -11,3 +11,4 @@ Lien : https://www.figma.com/design/J0ryeNofU0AyvMltr5ulzn/Portfolio-Design-Temp
 - HTML5 sémantique
 - Bootstrap 5 (CDN)
 - CSS personnalisé
+- Javascript Vanilla
